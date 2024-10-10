@@ -6,17 +6,17 @@ The Illumination Academy Management System is a comprehensive tool designed to s
 Built with **`Python`** and **`PostgreSQL`**, this system integrates seamlessly with **`Excel`** for reporting and uses **`Matplotlib`** for **Data Visualization** to present actionable insights.
 
 ## Skills Demonstrated
-**`Python Mastery:`** Demonstrates proficiency in Python programming, including clean code practices, effective function and modules organization, and error handling techniques.
+**1) Python Mastery:** Demonstrates proficiency, including clean code practices, effective function and modules organization, and error handling.
 
-**`Data Validation:`** Employs **Regular Expressions** and data validation techniques to ensure data integrity and prevent errors.
+**2) Data Validation:** Employs **`Regular Expressions`** and data validation techniques to ensure data integrity and prevent errors.
 
-**`Excel Integration:`** Demonstrates proficiency in using **Openpyxl** to seamlessly export data to **Excel** for further analysis and reporting.
+**3) Excel Integration:** Demonstrates proficiency in using **`Openpyxl`** to seamlessly export data to **`Excel`** for further analysis and reporting.
 
-**`Data Visualization:`** Utilizes **Matplotlib** to create informative and visually appealing charts, effectively communicating data trends and patterns.
+**4) Data Visualization:** Utilizes **`Matplotlib`** to create informative and visually appealing charts, effectively communicating data trends.
 
-**`Database Design:`** Exhibits expertise in designing robust database schemas, establishing meaningful relationships between tables, and defining appropriate attributes to efficiently store and manage educational data.
+**5) Database Design:** Demonstrates robust database schema via meaningful relationships and attributes for efficient storing and managing data.
 
-**`SQL Proficiency:`** Leverages **`SQL`** for powerful data querying and manipulation, extracting valuable insights from the database.
+**6) SQL Proficiency:** Leverages **`SQL`** for powerful data querying and manipulation, extracting valuable insights from the database.
 
 ## Features
 1) **`Student Management:`**
