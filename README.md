@@ -7,7 +7,7 @@ The system allows academies to efficiently handle day-to-day operations such as 
 Built with **`Python`** and **`PostgreSQL`**, this system integrates seamlessly with **`Excel`** for reporting and uses **`Matplotlib`** for **Data Visualization** to present actionable insights.
 
 ## Skills Demonstrated
-**1) Python Mastery:** Demonstrates proficiency, including clean code practices, effective function and modules organization, and error handling.
+**1) Python Mastery:** Demonstrates proficiency, including **clean code** practices, effective function and **modules organization**, **regex**, and **error handling**.
 
 **2) Data Validation:** Employs **`Regular Expressions`** and data validation techniques to ensure data integrity and prevent errors.
 
