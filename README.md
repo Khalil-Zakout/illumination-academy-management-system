@@ -1,7 +1,8 @@
 # Illumination-Academy-Management-System
 
 ## Overview
-The Illumination Academy Management System is a comprehensive tool designed to streamline administrative tasks for educational institutions, specifically focusing on student management, course enrollments, and instructor data. The system allows academies to efficiently handle day-to-day operations such as enrolling students, managing courses, and assigning instructors while providing valuable insights into students data and enrollment trends.
+**The Illumination Academy Management System** is a comprehensive tool designed to streamline administrative tasks for educational institutions, specifically focusing on student management, course enrollments, and instructor data.
+The system allows academies to efficiently handle day-to-day operations such as enrolling students, managing courses, and assigning instructors while providing valuable insights into students data and enrollment trends.
 
 Built with **`Python`** and **`PostgreSQL`**, this system integrates seamlessly with **`Excel`** for reporting and uses **`Matplotlib`** for **Data Visualization** to present actionable insights.
 
@@ -16,7 +17,7 @@ Built with **`Python`** and **`PostgreSQL`**, this system integrates seamlessly 
 
 **5) Database Design:** Demonstrates robust database schema via meaningful relationships and attributes for efficient storing and managing data.
 
-**6) SQL Proficiency:** Leverages **`SQL`** for powerful data querying and manipulation, extracting valuable insights from the database.
+**6) SQL Proficiency:** Leverages **`SQL`** for full **`CRUD`** operations, extracting valuable insights from the database.
 
 ## Features
 1) **`Student Management:`**
